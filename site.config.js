@@ -6,8 +6,8 @@ window.SITE_CONFIG = {
     projectId: "thetraveler-6415a",
     storageBucket: "thetraveler-6415a.firebasestorage.app",
     messagingSenderId: "103481128676",
-    appId: "1:103481128676:web:62ca46e0061f4165315ef1",
-    measurementId: "G-WP8S2SNJV0"
+    appId: "1:103481128676:web:bdfa00528f8efecf315ef1",
+    measurementId: "G-W04DXBLYXD"
   },
-  admin: { email: "dlawldnjs698@naver.com" }
+  admin: { email: "dlawldnjs698@gmail.com" }
 };
